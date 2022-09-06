@@ -1,4 +1,4 @@
-package com.sparta.week01.prac;
+package com.sparta.week01.prac_day1;
 
 import java.util.ArrayList;
 import java.util.List;
